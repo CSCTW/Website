@@ -18,7 +18,7 @@
 	var chatbotConfig = window.csctwChatbotConfig || {};
 	var chatbotDefaults = {
 		tokenUrl: '',
-		embedUrl: 'https://csctw-beta-assistant.azurewebsites.net',
+		embedUrl: 'https://csctws-beta-chat.azurewebsites.net',
 		webChatScriptUrl: 'https://cdn.botframework.com/botframework-webchat/latest/webchat.js',
 		launcherLabel: 'Chat with us',
 		panelTitle: '#CSCTW Chat',
